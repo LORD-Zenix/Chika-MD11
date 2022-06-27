@@ -1,0 +1,34 @@
+[
+  {
+    "nama": "#menu",
+    "count": 1
+  },
+  {
+    "nama": "#speed",
+    "count": 1
+  },
+  {
+    "nama": "#runtime",
+    "count": 1
+  },
+  {
+    "nama": "#linkgc",
+    "count": 1
+  },
+  {
+    "nama": "#close",
+    "count": 1
+  },
+  {
+    "nama": "#group",
+    "count": 1
+  },
+  {
+    "nama": "#toimg",
+    "count": 2
+  },
+  {
+    "nama": "#tomp3",
+    "count": 1
+  }
+]
